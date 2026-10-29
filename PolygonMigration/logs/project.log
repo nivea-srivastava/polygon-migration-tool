@@ -1,0 +1,1090 @@
+[INFO] 2026-10-28 22:39:43,243 views | Entered index view with method=GET
+[INFO] 2026-10-28 22:39:43,248 views | Exiting index view
+[INFO] 2026-10-28 22:55:29,953 views | Entered index view with method=GET
+[INFO] 2026-10-28 22:55:29,958 views | Exiting index view
+[INFO] 2026-10-28 22:55:31,745 views | Entered index view with method=GET
+[INFO] 2026-10-28 22:55:31,751 views | Exiting index view
+[INFO] 2026-10-28 22:55:48,494 views | Entered index view with method=POST
+[DEBUG] 2026-10-28 22:55:48,499 views | POST data: polygon_id=69933, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-28 22:55:48,500 views | All POST data: {'csrfmiddlewaretoken': ['5pB8xP3GVBhGXbRNYWNfLPVDU1SEZtVO7wTzr06hSTMoFEjEH5y4rtS0HG1NOORW'], 'problem_id': ['69933']}
+[INFO] 2026-10-28 22:55:48,501 views | Processing polygon_id=69933
+[INFO] 2026-10-28 22:56:16,596 views | Entered index view with method=GET
+[INFO] 2026-10-28 22:56:16,600 views | Exiting index view
+[INFO] 2026-10-29 13:41:36,198 views | Entered index view with method=GET
+[INFO] 2026-10-29 13:41:36,210 views | Exiting index view
+[INFO] 2026-10-29 13:42:00,866 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 13:42:00,869 views | POST data: polygon_id=617381, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 13:42:00,869 views | All POST data: {'csrfmiddlewaretoken': ['RYvJfuC52pSSq1YwKGAkXgVf97aaNob8xQS1itACpIOkbWVRghwWMPlQvL5ZGjrD'], 'problem_id': ['617381']}
+[INFO] 2026-10-29 13:42:00,869 views | Processing polygon_id=617381
+[INFO] 2026-10-29 15:06:33,723 views | Entered index view with method=GET
+[INFO] 2026-10-29 15:06:33,728 views | Exiting index view
+[INFO] 2026-10-29 15:06:36,627 views | Entered index view with method=GET
+[INFO] 2026-10-29 15:06:36,632 views | Exiting index view
+[INFO] 2026-10-29 15:07:09,872 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 15:07:09,875 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 15:07:09,875 views | All POST data: {'csrfmiddlewaretoken': ['miDbZBMIpm831AS3QvpEnde1YhhdcgM52a0t2AKfMF4vMvPom6lgcMECkVc25b2A'], 'problem_id': ['618508']}
+[INFO] 2026-10-29 15:07:09,875 views | Processing polygon_id=618508
+[INFO] 2026-10-29 15:11:43,196 views | Entered index view with method=GET
+[INFO] 2026-10-29 15:11:43,200 views | Exiting index view
+[INFO] 2026-10-29 15:11:54,491 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 15:11:54,494 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 15:11:54,494 views | All POST data: {'csrfmiddlewaretoken': ['4YuBih8kyqXMNH8PZUoLrw4JXiZNELOKKQRTlg6RVJTeyC5avvkng5ukjWUCxG4f'], 'problem_id': ['618508']}
+[INFO] 2026-10-29 15:11:54,494 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 15:11:54,505 views | db_problem=None
+[INFO] 2026-10-29 15:11:54,505 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 15:11:55,040 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 15:11:55,040 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 15:11:55,040 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 15:11:55,042 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 15:11:55,566 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 15:11:57,419 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 15:11:57,430 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmp3l816z2l
+[DEBUG] 2026-10-29 15:11:57,431 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 15:11:57,431 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 15:11:57,442 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 15:11:57,443 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 15:11:57,443 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 15:11:57,444 polygon_api | Fetching all test cases for 618508, testset
+[INFO] 2026-10-29 15:11:57,784 polygon_api | Found 3 test cases to process
+[INFO] 2026-10-29 15:11:57,784 polygon_api | Processing test case 1/3 (index: 1)
+[DEBUG] 2026-10-29 15:11:57,784 polygon_api | Fetching input for test case 1
+[DEBUG] 2026-10-29 15:11:58,209 polygon_api | Fetching output for test case 1
+[INFO] 2026-10-29 15:11:58,656 polygon_api | Successfully fetched test case 1 - Input length: 55, Output length: 17
+[INFO] 2026-10-29 15:11:58,656 polygon_api | Processing test case 2/3 (index: 2)
+[DEBUG] 2026-10-29 15:11:58,656 polygon_api | Fetching input for test case 2
+[DEBUG] 2026-10-29 15:11:59,407 polygon_api | Fetching output for test case 2
+[INFO] 2026-10-29 15:12:00,071 polygon_api | Successfully fetched test case 2 - Input length: 39, Output length: 14
+[INFO] 2026-10-29 15:12:00,072 polygon_api | Processing test case 3/3 (index: 3)
+[DEBUG] 2026-10-29 15:12:00,072 polygon_api | Fetching input for test case 3
+[DEBUG] 2026-10-29 15:12:00,523 polygon_api | Fetching output for test case 3
+[INFO] 2026-10-29 15:12:01,338 polygon_api | Successfully fetched test case 3 - Input length: 59, Output length: 17
+[INFO] 2026-10-29 15:12:01,338 polygon_api | Completed fetching all 3 test cases for problem 618508
+[DEBUG] 2026-10-29 15:12:01,338 views | Fetched all test cases.
+[INFO] 2026-10-29 15:12:03,262 polygon_api | Stored 3 test cases in Redis for polygon_id 618508
+[DEBUG] 2026-10-29 15:12:03,589 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 15:12:03,590 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 15:12:03,926 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 15:12:03,926 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 15:12:03,926 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 15:12:04,260 views | test_case_count=3
+[INFO] 2026-10-29 15:12:04,261 views | Exiting index view
+[INFO] 2026-10-29 15:13:09,420 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 15:13:09,424 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 15:13:09,425 views | All POST data: {'csrfmiddlewaretoken': ['pDRlQBUlDNtlAxjITPMqSB7T87lUTdPF5veDTASS06pNlsg3pqI2HaxuuLgJM85a'], 'problem_id': ['618508'], 'migrate_to_db': ['1'], 'difficulty': ['easy']}
+[INFO] 2026-10-29 15:13:09,425 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 15:13:09,432 views | db_problem=None
+[INFO] 2026-10-29 15:13:09,433 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 15:13:09,787 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 15:13:09,787 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 15:13:09,788 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 15:13:09,788 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 15:13:10,144 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 15:13:11,040 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 15:13:11,052 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpgvp867rp
+[DEBUG] 2026-10-29 15:13:11,053 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 15:13:11,053 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 15:13:11,054 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 15:13:11,054 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 15:13:11,054 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 15:13:12,905 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 15:13:12,906 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 15:13:13,227 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 15:13:13,227 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 15:13:13,548 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 15:13:13,548 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 15:13:13,548 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 15:13:13,878 views | test_case_count=3
+[INFO] 2026-10-29 15:13:13,878 views | Starting DB migration for polygon_id=618508
+[INFO] 2026-10-29 15:13:13,880 views | Creating new Problem in DB
+[INFO] 2026-10-29 15:13:13,888 views | Processing tags for problem
+[DEBUG] 2026-10-29 15:13:13,888 views | Selected tags before processing: []
+[DEBUG] 2026-10-29 15:13:13,889 views | New tag before processing: 
+[DEBUG] 2026-10-29 15:13:13,898 views | Cleared existing tags for problem 1
+[DEBUG] 2026-10-29 15:13:13,900 views | Final tags after processing: []
+[INFO] 2026-10-29 15:13:15,826 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 15:13:15,827 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 15:13:15,827 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 15:13:15,827 views | sample_tests: [{'index': 1, 'input': '4\r\n3\r\n1 2 1\r\n5\r\n11 7 9 6 8\r\n5\r\n1 3 1 3 1\r\n4\r\n5 2 1 10\r\n', 'output': 'NO\r\nNO\r\nNO\r\nYES\r\n', 'description': '', 'is_sample': True}, {'index': 2, 'input': '3\r\n4\r\n3 1 2 1\r\n5\r\n5 4 3 2 1\r\n3\r\n1 1 1\r\n', 'output': 'NO\r\nYES\r\nYES\r\n', 'description': '', 'is_sample': True}]
+[DEBUG] 2026-10-29 15:13:15,834 views | Sample test idx=0, input_data=4
+3
+1 2 1
+5
+11 7 9 6 8
+5
+1 3 1 3 1
+4
+5 2 1..., output_data=NO
+NO
+NO
+YES
+[DEBUG] 2026-10-29 15:13:15,836 views | Sample test idx=1, input_data=3
+4
+3 1 2 1
+5
+5 4 3 2 1
+3
+1 1 1, output_data=NO
+YES
+YES
+[DEBUG] 2026-10-29 15:13:16,160 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 15:13:16,509 views | Exiting index view
+[INFO] 2026-10-29 16:45:13,114 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 16:45:13,123 views | POST data: polygon_id=618508, migrate_to_azure=1, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 16:45:13,123 views | All POST data: {'csrfmiddlewaretoken': ['UdK1Vbv2P4xdvB36o9S7xBLPoUKh78fEA57jYatzcntFgw0rUKOJmabqKyF603v9'], 'problem_id': ['618508'], 'migrate_to_azure': ['1']}
+[INFO] 2026-10-29 16:45:13,124 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 16:45:13,135 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 16:45:14,439 views | Updated working copy: None
+[DEBUG] 2026-10-29 16:45:14,946 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 16:45:15,275 views | Azure migration triggered for polygon_id=618508
+[INFO] 2026-10-29 16:45:15,279 views | Problem found in DB, proceeding with Azure migration
+[INFO] 2026-10-29 16:45:15,279 views | Azure migration params: problem_id=1, container=None
+[INFO] 2026-10-29 16:45:15,279 polygon_api | pattern oj_dev_with_redis_storage_test_cases_1*
+[INFO] 2026-10-29 16:45:16,479 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 16:45:16,820 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 16:45:16,821 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 16:45:16,821 views | Calling migrate_to_azure_blob
+[INFO] 2026-10-29 16:45:16,830 polygon_api | Starting storage migration for problem 618508
+[INFO] 2026-10-29 16:45:18,042 polygon_api | No test cases found in Redis for polygon_id 618508
+[WARNING] 2026-10-29 16:45:18,042 polygon_api | Test cases not found in Redis, fetching from Polygon
+[INFO] 2026-10-29 16:45:18,043 polygon_api | Fetching all test cases for 618508, testset
+[INFO] 2026-10-29 16:45:18,368 polygon_api | Found 3 test cases to process
+[INFO] 2026-10-29 16:45:18,369 polygon_api | Processing test case 1/3 (index: 1)
+[INFO] 2026-10-29 16:45:19,152 polygon_api | Successfully fetched test case 1 - Input length: 55, Output length: 17
+[INFO] 2026-10-29 16:45:19,152 polygon_api | Processing test case 2/3 (index: 2)
+[INFO] 2026-10-29 16:45:19,977 polygon_api | Successfully fetched test case 2 - Input length: 39, Output length: 14
+[INFO] 2026-10-29 16:45:19,977 polygon_api | Processing test case 3/3 (index: 3)
+[INFO] 2026-10-29 16:45:20,806 polygon_api | Successfully fetched test case 3 - Input length: 59, Output length: 17
+[INFO] 2026-10-29 16:45:20,807 polygon_api | Completed fetching all 3 test cases for problem 618508
+[INFO] 2026-10-29 16:45:22,597 polygon_api | Stored 3 test cases in Redis for polygon_id 618508
+[INFO] 2026-10-29 16:45:22,597 polygon_api | Retrieved 3 test cases
+[ERROR] 2026-10-29 16:45:22,598 views | Azure migration failed: No module named 'problems.storage.azure_backend'
+Traceback (most recent call last):
+  File "C:\Users\HP\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\views.py", line 223, in index
+    api.migrate_to_azure_blob(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        polygon_id,
+        ^^^^^^^^^^^
+    ...<6 lines>...
+        problem_id
+        ^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HP\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\polygon_api.py", line 558, in migrate_to_azure_blob
+    storage = get_storage()
+  File "C:\Users\HP\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\storage\factory.py", line 14, in get_storage
+    from .azure_backend import AzureStorageBackend
+ModuleNotFoundError: No module named 'problems.storage.azure_backend'
+[ERROR] 2026-10-29 16:45:22,603 views | Exception in index view: No module named 'problems.storage.azure_backend'
+Traceback (most recent call last):
+  File "C:\Users\HP\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\views.py", line 223, in index
+    api.migrate_to_azure_blob(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        polygon_id,
+        ^^^^^^^^^^^
+    ...<6 lines>...
+        problem_id
+        ^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\HP\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\polygon_api.py", line 558, in migrate_to_azure_blob
+    storage = get_storage()
+  File "C:\Users\HP\Downloads\Polygon-migration-assignment\Polygon-migration-assignment\PolygonMigration\problems\storage\factory.py", line 14, in get_storage
+    from .azure_backend import AzureStorageBackend
+ModuleNotFoundError: No module named 'problems.storage.azure_backend'
+[INFO] 2026-10-29 16:45:24,706 polygon_api | Cleared 4 test case keys from Redis for polygon_id 618508
+[INFO] 2026-10-29 16:45:24,707 views | Exiting index view
+[INFO] 2026-10-29 16:48:52,966 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 16:48:52,971 views | POST data: polygon_id=618508, migrate_to_azure=1, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 16:48:52,971 views | All POST data: {'csrfmiddlewaretoken': ['UdK1Vbv2P4xdvB36o9S7xBLPoUKh78fEA57jYatzcntFgw0rUKOJmabqKyF603v9'], 'problem_id': ['618508'], 'migrate_to_azure': ['1']}
+[INFO] 2026-10-29 16:48:52,971 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 16:48:52,981 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 16:48:54,058 views | Updated working copy: None
+[DEBUG] 2026-10-29 16:48:54,365 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 16:48:54,676 views | Azure migration triggered for polygon_id=618508
+[INFO] 2026-10-29 16:48:54,677 views | Problem found in DB, proceeding with Azure migration
+[INFO] 2026-10-29 16:48:54,678 views | Azure migration params: problem_id=1, container=None
+[INFO] 2026-10-29 16:48:54,678 polygon_api | pattern oj_dev_with_redis_storage_test_cases_1*
+[INFO] 2026-10-29 16:48:55,892 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 16:48:56,396 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 16:48:56,396 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 16:48:56,396 views | Calling migrate_to_azure_blob
+[INFO] 2026-10-29 16:48:56,403 polygon_api | Starting storage migration for problem 618508
+[INFO] 2026-10-29 16:48:57,572 polygon_api | No test cases found in Redis for polygon_id 618508
+[WARNING] 2026-10-29 16:48:57,572 polygon_api | Test cases not found in Redis, fetching from Polygon
+[INFO] 2026-10-29 16:48:57,572 polygon_api | Fetching all test cases for 618508, testset
+[INFO] 2026-10-29 16:48:57,915 polygon_api | Found 3 test cases to process
+[INFO] 2026-10-29 16:48:57,916 polygon_api | Processing test case 1/3 (index: 1)
+[INFO] 2026-10-29 16:48:59,421 polygon_api | Successfully fetched test case 1 - Input length: 55, Output length: 17
+[INFO] 2026-10-29 16:48:59,421 polygon_api | Processing test case 2/3 (index: 2)
+[INFO] 2026-10-29 16:49:00,441 polygon_api | Successfully fetched test case 2 - Input length: 39, Output length: 14
+[INFO] 2026-10-29 16:49:00,441 polygon_api | Processing test case 3/3 (index: 3)
+[INFO] 2026-10-29 16:49:01,535 polygon_api | Successfully fetched test case 3 - Input length: 59, Output length: 17
+[INFO] 2026-10-29 16:49:01,535 polygon_api | Completed fetching all 3 test cases for problem 618508
+[INFO] 2026-10-29 16:49:03,461 polygon_api | Stored 3 test cases in Redis for polygon_id 618508
+[INFO] 2026-10-29 16:49:03,462 polygon_api | Retrieved 3 test cases
+[DEBUG] 2026-10-29 16:49:03,587 factory | Selected storage backend: upstash (s3)
+[INFO] 2026-10-29 16:49:03,873 upstash_backend | UpstashStorageBackend initialized.
+[INFO] 2026-10-29 16:49:03,873 polygon_api | Emptying existing storage for problem 1
+[INFO] 2026-10-29 16:49:07,142 upstash_backend | Emptied Upstash prefix: test_cases/1/
+[INFO] 2026-10-29 16:49:13,247 polygon_api | Uploaded 3 test cases to storage
+[INFO] 2026-10-29 16:49:13,247 polygon_api | Processing custom checker for problem 618508
+[INFO] 2026-10-29 16:49:13,247 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 16:49:13,557 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:13,557 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:13,557 polygon_api | No custom checker found for problem 618508
+[INFO] 2026-10-29 16:49:13,557 polygon_api | Completed storage migration for problem 618508
+[INFO] 2026-10-29 16:49:13,558 views | Azure migration completed successfully
+[INFO] 2026-10-29 16:49:13,558 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 16:49:13,877 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 16:49:13,878 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 16:49:13,878 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 16:49:13,880 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 16:49:14,211 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 16:49:15,889 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 16:49:15,900 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpynaj0jsn
+[DEBUG] 2026-10-29 16:49:15,901 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 16:49:15,901 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 16:49:15,906 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 16:49:15,906 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 16:49:15,907 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 16:49:17,800 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 16:49:17,800 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 16:49:18,143 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 16:49:18,143 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 16:49:18,477 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:18,478 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:18,478 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 16:49:18,826 views | test_case_count=3
+[INFO] 2026-10-29 16:49:18,827 views | Exiting index view
+[INFO] 2026-10-29 16:49:33,512 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 16:49:33,518 views | POST data: polygon_id=618508, migrate_to_azure=1, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 16:49:33,518 views | All POST data: {'csrfmiddlewaretoken': ['CSnrtvCapPFurPBsvFsF64PYrvEbouFZiKKJwuAHM8BWcKyN1gohVDfzN9z0hpVu'], 'problem_id': ['618508'], 'migrate_to_azure': ['1']}
+[INFO] 2026-10-29 16:49:33,518 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 16:49:33,526 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 16:49:34,453 views | Updated working copy: None
+[DEBUG] 2026-10-29 16:49:34,772 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 16:49:35,082 views | Azure migration triggered for polygon_id=618508
+[INFO] 2026-10-29 16:49:35,084 views | Problem found in DB, proceeding with Azure migration
+[INFO] 2026-10-29 16:49:35,084 views | Azure migration params: problem_id=1, container=None
+[INFO] 2026-10-29 16:49:35,084 polygon_api | pattern oj_dev_with_redis_storage_test_cases_1*
+[INFO] 2026-10-29 16:49:36,298 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 16:49:36,606 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:36,606 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:36,606 views | Calling migrate_to_azure_blob
+[INFO] 2026-10-29 16:49:36,606 polygon_api | Starting storage migration for problem 618508
+[INFO] 2026-10-29 16:49:38,428 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 16:49:38,429 polygon_api | Retrieved test cases from Redis for storage migration
+[INFO] 2026-10-29 16:49:38,429 polygon_api | Retrieved 3 test cases
+[DEBUG] 2026-10-29 16:49:38,430 factory | Selected storage backend: upstash (s3)
+[INFO] 2026-10-29 16:49:38,665 upstash_backend | UpstashStorageBackend initialized.
+[INFO] 2026-10-29 16:49:38,665 polygon_api | Emptying existing storage for problem 1
+[INFO] 2026-10-29 16:49:39,453 upstash_backend | Emptied Upstash prefix: test_cases/1/
+[INFO] 2026-10-29 16:49:45,825 polygon_api | Uploaded 3 test cases to storage
+[INFO] 2026-10-29 16:49:45,825 polygon_api | Processing custom checker for problem 618508
+[INFO] 2026-10-29 16:49:45,826 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 16:49:46,145 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:46,145 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:46,145 polygon_api | No custom checker found for problem 618508
+[INFO] 2026-10-29 16:49:46,145 polygon_api | Completed storage migration for problem 618508
+[INFO] 2026-10-29 16:49:46,145 views | Azure migration completed successfully
+[INFO] 2026-10-29 16:49:46,146 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 16:49:46,479 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 16:49:46,480 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 16:49:46,480 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 16:49:46,481 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 16:49:46,806 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 16:49:48,545 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 16:49:48,555 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpgsmpbg0z
+[DEBUG] 2026-10-29 16:49:48,556 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 16:49:48,557 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 16:49:48,558 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 16:49:48,558 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 16:49:48,558 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 16:49:50,530 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 16:49:50,530 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 16:49:50,880 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 16:49:50,880 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 16:49:51,209 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:51,209 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 16:49:51,210 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 16:49:51,546 views | test_case_count=3
+[INFO] 2026-10-29 16:49:51,547 views | Exiting index view
+[INFO] 2026-10-29 17:20:44,215 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:20:44,219 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:20:44,220 views | All POST data: {'csrfmiddlewaretoken': ['SyWIK4dtcao7z204RxB0lDsovOa2I59syqj0N3b0ztkzkXXpn8xCacSZRs5RB0pX'], 'problem_id': ['618508'], 'migrate_to_db': ['1'], 'difficulty': ['easy']}
+[INFO] 2026-10-29 17:20:44,220 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 17:20:44,230 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 17:20:45,383 views | Updated working copy: None
+[DEBUG] 2026-10-29 17:20:45,715 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:20:46,213 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:20:46,549 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 17:20:46,549 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:20:46,549 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 17:20:46,550 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:20:46,893 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:20:48,614 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 17:20:48,628 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmp3ve79cp8
+[DEBUG] 2026-10-29 17:20:48,628 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 17:20:48,629 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 17:20:48,629 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 17:20:48,630 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:20:48,630 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 17:20:49,872 polygon_api | No test cases found in Redis for polygon_id 618508
+[WARNING] 2026-10-29 17:20:49,873 views | Test cases not found in Redis, fetching from Polygon
+[INFO] 2026-10-29 17:20:49,873 polygon_api | Fetching all test cases for 618508, testset
+[INFO] 2026-10-29 17:20:50,233 polygon_api | Found 3 test cases to process
+[INFO] 2026-10-29 17:20:50,234 polygon_api | Processing test case 1/3 (index: 1)
+[INFO] 2026-10-29 17:20:51,009 polygon_api | Successfully fetched test case 1 - Input length: 55, Output length: 17
+[INFO] 2026-10-29 17:20:51,010 polygon_api | Processing test case 2/3 (index: 2)
+[INFO] 2026-10-29 17:20:51,792 polygon_api | Successfully fetched test case 2 - Input length: 39, Output length: 14
+[INFO] 2026-10-29 17:20:51,793 polygon_api | Processing test case 3/3 (index: 3)
+[INFO] 2026-10-29 17:20:53,008 polygon_api | Successfully fetched test case 3 - Input length: 59, Output length: 17
+[INFO] 2026-10-29 17:20:53,008 polygon_api | Completed fetching all 3 test cases for problem 618508
+[INFO] 2026-10-29 17:20:54,902 polygon_api | Stored 3 test cases in Redis for polygon_id 618508
+[DEBUG] 2026-10-29 17:20:55,222 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 17:20:55,222 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:20:55,548 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:20:55,548 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:20:55,548 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 17:20:55,904 views | test_case_count=3
+[INFO] 2026-10-29 17:20:55,904 views | Starting DB migration for polygon_id=618508
+[INFO] 2026-10-29 17:20:55,906 views | Updating existing Problem in DB
+[INFO] 2026-10-29 17:20:55,918 views | Processing tags for problem
+[DEBUG] 2026-10-29 17:20:55,918 views | Selected tags before processing: []
+[DEBUG] 2026-10-29 17:20:55,918 views | New tag before processing: 
+[DEBUG] 2026-10-29 17:20:55,920 views | Cleared existing tags for problem 1
+[DEBUG] 2026-10-29 17:20:55,921 views | Final tags after processing: []
+[INFO] 2026-10-29 17:20:57,862 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:20:57,863 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:20:57,863 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 17:20:57,863 views | sample_tests: [{'index': 1, 'input': '4\r\n3\r\n1 2 1\r\n5\r\n11 7 9 6 8\r\n5\r\n1 3 1 3 1\r\n4\r\n5 2 1 10\r\n', 'output': 'NO\r\nNO\r\nNO\r\nYES\r\n', 'description': '', 'is_sample': True}, {'index': 2, 'input': '3\r\n4\r\n3 1 2 1\r\n5\r\n5 4 3 2 1\r\n3\r\n1 1 1\r\n', 'output': 'NO\r\nYES\r\nYES\r\n', 'description': '', 'is_sample': True}]
+[DEBUG] 2026-10-29 17:20:57,871 views | Sample test idx=0, input_data=4
+3
+1 2 1
+5
+11 7 9 6 8
+5
+1 3 1 3 1
+4
+5 2 1..., output_data=NO
+NO
+NO
+YES
+[DEBUG] 2026-10-29 17:20:57,873 views | Sample test idx=1, input_data=3
+4
+3 1 2 1
+5
+5 4 3 2 1
+3
+1 1 1, output_data=NO
+YES
+YES
+[DEBUG] 2026-10-29 17:20:58,211 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:20:58,544 views | Exiting index view
+[INFO] 2026-10-29 17:21:13,569 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:21:13,573 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:21:13,574 views | All POST data: {'csrfmiddlewaretoken': ['wVfxtkcRMAmdwkiZu3tegzQzE05g1oUzcNCPwjao9TiFhffk0EpQ58ga0E05Uja4'], 'problem_id': ['618508'], 'migrate_to_db': ['1'], 'difficulty': ['easy']}
+[INFO] 2026-10-29 17:21:13,574 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 17:21:13,583 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 17:21:14,682 views | Updated working copy: None
+[DEBUG] 2026-10-29 17:21:15,008 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:21:15,329 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:21:15,674 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 17:21:15,675 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:21:15,675 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 17:21:15,676 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:21:16,023 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:21:17,750 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 17:21:17,761 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpgma2p2pe
+[DEBUG] 2026-10-29 17:21:17,762 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 17:21:17,763 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 17:21:17,764 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 17:21:17,765 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:21:17,765 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 17:21:19,658 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:21:19,658 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:21:19,979 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 17:21:19,979 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:21:20,303 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:21:20,304 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:21:20,304 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 17:21:20,634 views | test_case_count=3
+[INFO] 2026-10-29 17:21:20,634 views | Starting DB migration for polygon_id=618508
+[INFO] 2026-10-29 17:21:20,636 views | Updating existing Problem in DB
+[INFO] 2026-10-29 17:21:20,638 views | Processing tags for problem
+[DEBUG] 2026-10-29 17:21:20,638 views | Selected tags before processing: []
+[DEBUG] 2026-10-29 17:21:20,638 views | New tag before processing: 
+[DEBUG] 2026-10-29 17:21:20,640 views | Cleared existing tags for problem 1
+[DEBUG] 2026-10-29 17:21:20,642 views | Final tags after processing: []
+[INFO] 2026-10-29 17:21:22,510 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:21:22,511 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:21:22,511 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 17:21:22,512 views | sample_tests: [{'index': 1, 'input': '4\r\n3\r\n1 2 1\r\n5\r\n11 7 9 6 8\r\n5\r\n1 3 1 3 1\r\n4\r\n5 2 1 10\r\n', 'output': 'NO\r\nNO\r\nNO\r\nYES\r\n', 'description': '', 'is_sample': True}, {'index': 2, 'input': '3\r\n4\r\n3 1 2 1\r\n5\r\n5 4 3 2 1\r\n3\r\n1 1 1\r\n', 'output': 'NO\r\nYES\r\nYES\r\n', 'description': '', 'is_sample': True}]
+[DEBUG] 2026-10-29 17:21:22,516 views | Sample test idx=0, input_data=4
+3
+1 2 1
+5
+11 7 9 6 8
+5
+1 3 1 3 1
+4
+5 2 1..., output_data=NO
+NO
+NO
+YES
+[DEBUG] 2026-10-29 17:21:22,518 views | Sample test idx=1, input_data=3
+4
+3 1 2 1
+5
+5 4 3 2 1
+3
+1 1 1, output_data=NO
+YES
+YES
+[DEBUG] 2026-10-29 17:21:22,855 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:21:23,186 views | Exiting index view
+[INFO] 2026-10-29 17:22:52,967 views | Entered index view with method=GET
+[INFO] 2026-10-29 17:22:52,971 views | Exiting index view
+[INFO] 2026-10-29 17:23:01,898 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:23:01,902 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:23:01,902 views | All POST data: {'csrfmiddlewaretoken': ['8XgAN7fl0T2wCyxyakm0OcBTqXSFcCHsXCFE7NMetuKNCqtqObWvo5QLwH8QWUb9'], 'problem_id': ['618508']}
+[INFO] 2026-10-29 17:23:01,902 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 17:23:01,910 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 17:23:02,933 views | Updated working copy: None
+[DEBUG] 2026-10-29 17:23:03,278 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:23:03,597 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:23:03,998 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 17:23:03,998 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:23:03,999 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 17:23:03,999 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:23:04,337 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:23:05,183 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 17:23:05,197 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpugeqvrrr
+[DEBUG] 2026-10-29 17:23:05,198 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 17:23:05,198 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 17:23:05,199 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 17:23:05,199 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:23:05,199 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 17:23:05,200 polygon_api | Fetching all test cases for 618508, testset
+[INFO] 2026-10-29 17:23:05,527 polygon_api | Found 3 test cases to process
+[INFO] 2026-10-29 17:23:05,527 polygon_api | Processing test case 1/3 (index: 1)
+[INFO] 2026-10-29 17:23:06,529 polygon_api | Successfully fetched test case 1 - Input length: 55, Output length: 17
+[INFO] 2026-10-29 17:23:06,530 polygon_api | Processing test case 2/3 (index: 2)
+[INFO] 2026-10-29 17:23:07,482 polygon_api | Successfully fetched test case 2 - Input length: 39, Output length: 14
+[INFO] 2026-10-29 17:23:07,483 polygon_api | Processing test case 3/3 (index: 3)
+[INFO] 2026-10-29 17:23:08,960 polygon_api | Successfully fetched test case 3 - Input length: 59, Output length: 17
+[INFO] 2026-10-29 17:23:08,960 polygon_api | Completed fetching all 3 test cases for problem 618508
+[DEBUG] 2026-10-29 17:23:08,960 views | Fetched all test cases.
+[INFO] 2026-10-29 17:23:10,921 polygon_api | Stored 3 test cases in Redis for polygon_id 618508
+[DEBUG] 2026-10-29 17:23:11,253 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 17:23:11,254 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:23:11,585 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:23:11,585 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:23:11,586 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 17:23:11,916 views | test_case_count=3
+[INFO] 2026-10-29 17:23:11,916 views | Exiting index view
+[INFO] 2026-10-29 17:24:10,110 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:24:10,114 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=1, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:24:10,114 views | All POST data: {'csrfmiddlewaretoken': ['QtHbOrdOnVOO043znQ1MzjFCCL7Qa55YF86f87KHQww50WZr1HBh9cUuIvn1UnzF'], 'problem_id': ['618508'], 'migrate_test_cases_to_db': ['1']}
+[INFO] 2026-10-29 17:24:10,115 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 17:24:10,120 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 17:24:11,165 views | Updated working copy: None
+[DEBUG] 2026-10-29 17:24:11,490 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:24:11,896 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:24:12,238 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 17:24:12,239 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:24:12,239 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 17:24:12,240 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:24:12,563 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:24:13,503 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 17:24:13,513 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpfxwe6m4_
+[DEBUG] 2026-10-29 17:24:13,514 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 17:24:13,514 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 17:24:13,515 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 17:24:13,515 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:24:13,515 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 17:24:15,491 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:24:15,492 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:24:15,942 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 17:24:15,943 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:24:16,282 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:24:16,282 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:24:16,282 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 17:24:16,601 views | test_case_count=3
+[INFO] 2026-10-29 17:24:18,476 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:24:18,477 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:24:18,477 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 17:24:18,526 views | Test case idx=0, input_data=4
+3
+1 2 1
+5
+11 7 9 6 8
+5
+1 3 1 3 1
+4
+5 2 1..., output_data=NO
+NO
+NO
+YES, is_sample=True, description=
+[DEBUG] 2026-10-29 17:24:18,526 views | Test case idx=0, truncated_input_length=53, truncated_output_length=15
+[DEBUG] 2026-10-29 17:24:18,532 views | Test case idx=1, input_data=3
+4
+3 1 2 1
+5
+5 4 3 2 1
+3
+1 1 1, output_data=NO
+YES
+YES, is_sample=True, description=
+[DEBUG] 2026-10-29 17:24:18,532 views | Test case idx=1, truncated_input_length=37, truncated_output_length=12
+[DEBUG] 2026-10-29 17:24:18,533 views | Test case idx=2, input_data=4
+3
+1 3 1
+4
+2 3 1 2
+5
+10 1 10 1 10
+6
+5 4 3..., output_data=NO
+NO
+NO
+YES, is_sample=False, description=
+[DEBUG] 2026-10-29 17:24:18,533 views | Test case idx=2, truncated_input_length=57, truncated_output_length=15
+[INFO] 2026-10-29 17:24:18,542 views | Exiting index view
+[INFO] 2026-10-29 17:24:25,001 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:24:25,005 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:24:25,005 views | All POST data: {'csrfmiddlewaretoken': ['azcPEQBWubcTJ0ajgrPGHvMHBNjrN5qlZeBTYw8PXMUaJS6bUipbho1zHxzCxnU2'], 'problem_id': ['618508'], 'migrate_to_db': ['1'], 'difficulty': ['easy']}
+[INFO] 2026-10-29 17:24:25,005 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 17:24:25,012 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 17:24:26,048 views | Updated working copy: None
+[DEBUG] 2026-10-29 17:24:26,373 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:24:26,701 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:24:27,026 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 17:24:27,027 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:24:27,027 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 17:24:27,028 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:24:27,375 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:24:28,273 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 17:24:28,282 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmp8jtkn7ru
+[DEBUG] 2026-10-29 17:24:28,283 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 17:24:28,283 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 17:24:28,284 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 17:24:28,284 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:24:28,284 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 17:24:30,236 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:24:30,236 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:24:30,558 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 17:24:30,559 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:24:30,978 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:24:30,979 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:24:30,979 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 17:24:31,310 views | test_case_count=3
+[INFO] 2026-10-29 17:24:31,310 views | Starting DB migration for polygon_id=618508
+[INFO] 2026-10-29 17:24:31,312 views | Updating existing Problem in DB
+[INFO] 2026-10-29 17:24:31,314 views | Processing tags for problem
+[DEBUG] 2026-10-29 17:24:31,314 views | Selected tags before processing: []
+[DEBUG] 2026-10-29 17:24:31,314 views | New tag before processing: 
+[DEBUG] 2026-10-29 17:24:31,315 views | Cleared existing tags for problem 1
+[DEBUG] 2026-10-29 17:24:31,317 views | Final tags after processing: []
+[INFO] 2026-10-29 17:24:33,272 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:24:33,272 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:24:33,273 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 17:24:33,273 views | sample_tests: [{'index': 1, 'input': '4\r\n3\r\n1 2 1\r\n5\r\n11 7 9 6 8\r\n5\r\n1 3 1 3 1\r\n4\r\n5 2 1 10\r\n', 'output': 'NO\r\nNO\r\nNO\r\nYES\r\n', 'description': '', 'is_sample': True}, {'index': 2, 'input': '3\r\n4\r\n3 1 2 1\r\n5\r\n5 4 3 2 1\r\n3\r\n1 1 1\r\n', 'output': 'NO\r\nYES\r\nYES\r\n', 'description': '', 'is_sample': True}]
+[DEBUG] 2026-10-29 17:24:33,277 views | Sample test idx=0, input_data=4
+3
+1 2 1
+5
+11 7 9 6 8
+5
+1 3 1 3 1
+4
+5 2 1..., output_data=NO
+NO
+NO
+YES
+[DEBUG] 2026-10-29 17:24:33,279 views | Sample test idx=1, input_data=3
+4
+3 1 2 1
+5
+5 4 3 2 1
+3
+1 1 1, output_data=NO
+YES
+YES
+[DEBUG] 2026-10-29 17:24:33,590 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:24:33,921 views | Exiting index view
+[INFO] 2026-10-29 17:26:38,351 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:26:38,355 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:26:38,355 views | All POST data: {'csrfmiddlewaretoken': ['azcPEQBWubcTJ0ajgrPGHvMHBNjrN5qlZeBTYw8PXMUaJS6bUipbho1zHxzCxnU2'], 'problem_id': ['618508'], 'migrate_to_db': ['1'], 'difficulty': ['easy']}
+[INFO] 2026-10-29 17:26:38,355 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 17:26:38,364 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 17:26:39,370 views | Updated working copy: None
+[DEBUG] 2026-10-29 17:26:39,890 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:26:40,232 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:26:40,579 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 17:26:40,579 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:26:40,579 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 17:26:40,580 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:26:40,901 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:26:42,476 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 17:26:42,485 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpflo375h7
+[DEBUG] 2026-10-29 17:26:42,486 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 17:26:42,487 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 17:26:42,488 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 17:26:42,488 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:26:42,488 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 17:26:44,378 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:26:44,379 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:26:44,713 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 17:26:44,713 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:26:45,048 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:26:45,048 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:26:45,048 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 17:26:45,384 views | test_case_count=3
+[INFO] 2026-10-29 17:26:45,384 views | Starting DB migration for polygon_id=618508
+[INFO] 2026-10-29 17:26:45,386 views | Updating existing Problem in DB
+[INFO] 2026-10-29 17:26:45,389 views | Processing tags for problem
+[DEBUG] 2026-10-29 17:26:45,389 views | Selected tags before processing: []
+[DEBUG] 2026-10-29 17:26:45,389 views | New tag before processing: 
+[DEBUG] 2026-10-29 17:26:45,390 views | Cleared existing tags for problem 1
+[DEBUG] 2026-10-29 17:26:45,392 views | Final tags after processing: []
+[INFO] 2026-10-29 17:26:47,261 polygon_api | Retrieved 3 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:26:47,262 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:26:47,262 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 17:26:47,263 views | sample_tests: [{'index': 1, 'input': '4\r\n3\r\n1 2 1\r\n5\r\n11 7 9 6 8\r\n5\r\n1 3 1 3 1\r\n4\r\n5 2 1 10\r\n', 'output': 'NO\r\nNO\r\nNO\r\nYES\r\n', 'description': '', 'is_sample': True}, {'index': 2, 'input': '3\r\n4\r\n3 1 2 1\r\n5\r\n5 4 3 2 1\r\n3\r\n1 1 1\r\n', 'output': 'NO\r\nYES\r\nYES\r\n', 'description': '', 'is_sample': True}]
+[DEBUG] 2026-10-29 17:26:47,267 views | Sample test idx=0, input_data=4
+3
+1 2 1
+5
+11 7 9 6 8
+5
+1 3 1 3 1
+4
+5 2 1..., output_data=NO
+NO
+NO
+YES
+[DEBUG] 2026-10-29 17:26:47,269 views | Sample test idx=1, input_data=3
+4
+3 1 2 1
+5
+5 4 3 2 1
+3
+1 1 1, output_data=NO
+YES
+YES
+[DEBUG] 2026-10-29 17:26:47,600 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:26:47,918 views | Exiting index view
+[INFO] 2026-10-29 17:26:53,583 views | Entered index view with method=GET
+[INFO] 2026-10-29 17:26:53,587 views | Exiting index view
+[INFO] 2026-10-29 17:29:36,670 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:29:36,673 views | POST data: polygon_id=69933, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:29:36,674 views | All POST data: {'csrfmiddlewaretoken': ['IEX3pp71PQ2U7FF7KD3eBE9COQB6OGFyH6eeQkbi4dvzQ8BjM8xzrFURM01hdxoM'], 'problem_id': ['69933']}
+[INFO] 2026-10-29 17:29:36,674 views | Processing polygon_id=69933
+[DEBUG] 2026-10-29 17:29:36,680 views | db_problem=None
+[INFO] 2026-10-29 17:29:36,680 polygon_api | Fetching problem info for 69933
+[INFO] 2026-10-29 17:29:37,224 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': True, 'wellFormed': True, 'useInteractionLogInExampleTests': False, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False, 'interactiveSecondRun': False}
+[DEBUG] 2026-10-29 17:29:37,225 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': True, 'wellFormed': True, 'useInteractionLogInExampleTests': False, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False, 'interactiveSecondRun': False}
+[INFO] 2026-10-29 17:29:37,225 polygon_api | Downloading package for problem 69933
+[INFO] 2026-10-29 17:29:37,225 polygon_api | Fetching problem info for 69933
+[INFO] 2026-10-29 17:29:37,569 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': True, 'wellFormed': True, 'useInteractionLogInExampleTests': False, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False, 'interactiveSecondRun': False}
+[INFO] 2026-10-29 17:29:40,552 polygon_api | Successfully read problem.html content, length: 5027 characters
+[DEBUG] 2026-10-29 17:29:40,582 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpkvx7fscz
+[DEBUG] 2026-10-29 17:29:40,583 views | Downloaded and extracted problem_html_content, length: 5027
+[INFO] 2026-10-29 17:29:40,584 views | Entered parse_problem_html with content length=5027
+[DEBUG] 2026-10-29 17:29:40,585 views | Extracted title=Guess the Number, legend length=1639, input_format length=749, output_format length=714
+[INFO] 2026-10-29 17:29:40,585 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:29:40,585 views | Parsed html_data: {'title': 'Guess the Number', 'legend': '<p><span class="tex-font-style-it">This is an interactive problem. You have to use a <span class="tex-font-style-tt">flush</span> operation right after printing each line. For example, in C++ you should use the function <span class="tex-font-style-tt">fflush(stdout)</span>, in Java — <span class="tex-font-style-tt">System.out.flush()</span>, in Pascal — <span class="tex-font-style-tt">flush(output)</span>, and in Python — <span class="tex-font-style-tt">sys.stdout.flush()</span>.</span></p><p>In this problem, the jury has some number $$$x$$$, and you have to guess it. The number $$$x$$$ is always an integer from $$$1$$$ to $$$n$$$, where $$$n$$$ is given to you at the beginning.</p><p>You can make queries to the testing system. Each query is a single integer from $$$1$$$ to $$$n$$$. Flush the output stream after printing each query. There are two different responses the testing program can provide:</p><p></p><ul> <li> the string "<span class="tex-font-style-tt">&lt;</span>" (without quotes), if the jury\'s number is less than the integer in your query; </li><li> the string "<span class="tex-font-style-tt">&gt;=</span>" (without quotes), if the jury\'s number is greater than or equal to the integer in your query. </li></ul><p></p><p>When your program guesses the number $$$x$$$, print the string "<span class="tex-font-style-tt">! x</span>", where $$$x$$$ is the answer, and <span class="tex-font-style-bf">terminate your program normally</span> immediately after flushing the output stream.</p><p>Your program is allowed to make no more than $$$25$$$ queries (not including printing the answer) to the testing system.</p>', 'input_format': '<p>Use standard input to read the responses to the queries.</p><p>The first line contains an integer $$$n$$$ ($$$1 \\le n \\le 10^6$$$)\xa0— maximum possible jury\'s number.</p><p>Following lines will contain responses to your queries\xa0— strings "<span class="tex-font-style-tt">&lt;</span>" or "<span class="tex-font-style-tt">&gt;=</span>". The $$$i$$$-th line is a response to your $$$i$$$-th query. When your program guesses the number, print "<span class="tex-font-style-tt">! x</span>", where $$$x$$$ is the answer, and terminate your program.</p><p>The testing system will allow you to read the response to the query only after your program prints the query for the system and performs the <span class="tex-font-style-tt">flush</span> operation.</p>', 'output_format': '<p>To make the queries, your program must use standard output.</p><p>Your program must print the queries\xa0— integer numbers $$$x_i$$$ ($$$1 \\le x_i \\le n$$$), one query per line (do not forget "<span class="tex-font-style-it">end of line</span>" after each $$$x_i$$$). After printing each line, your program must perform the <span class="tex-font-style-tt">flush</span> operation.</p><p>Each of the values $$$x_i$$$ means the query to the testing system. The response to the query will be given in the input file after you flush the output. In case your program guesses the number $$$x$$$, print the string "<span class="tex-font-style-tt">! x</span>", where $$$x$$$ — is the answer, and terminate your program.</p>', 'notes': ''}
+[INFO] 2026-10-29 17:29:40,586 polygon_api | Fetching all test cases for 69933, testset
+[INFO] 2026-10-29 17:29:40,949 polygon_api | Found 21 test cases to process
+[INFO] 2026-10-29 17:29:40,949 polygon_api | Processing test case 1/21 (index: 1)
+[INFO] 2026-10-29 17:29:41,720 polygon_api | Successfully fetched test case 1 - Input length: 7, Output length: 3
+[INFO] 2026-10-29 17:29:41,721 polygon_api | Processing test case 2/21 (index: 2)
+[INFO] 2026-10-29 17:29:42,508 polygon_api | Successfully fetched test case 2 - Input length: 7, Output length: 3
+[INFO] 2026-10-29 17:29:42,509 polygon_api | Processing test case 3/21 (index: 3)
+[INFO] 2026-10-29 17:29:43,370 polygon_api | Successfully fetched test case 3 - Input length: 7, Output length: 3
+[INFO] 2026-10-29 17:29:43,370 polygon_api | Processing test case 4/21 (index: 4)
+[INFO] 2026-10-29 17:29:44,270 polygon_api | Successfully fetched test case 4 - Input length: 7, Output length: 3
+[INFO] 2026-10-29 17:29:44,271 polygon_api | Processing test case 5/21 (index: 5)
+[INFO] 2026-10-29 17:29:45,056 polygon_api | Successfully fetched test case 5 - Input length: 8, Output length: 3
+[INFO] 2026-10-29 17:29:45,056 polygon_api | Processing test case 6/21 (index: 6)
+[INFO] 2026-10-29 17:29:45,851 polygon_api | Successfully fetched test case 6 - Input length: 10, Output length: 4
+[INFO] 2026-10-29 17:29:45,851 polygon_api | Processing test case 7/21 (index: 7)
+[INFO] 2026-10-29 17:29:46,652 polygon_api | Successfully fetched test case 7 - Input length: 10, Output length: 4
+[INFO] 2026-10-29 17:29:46,652 polygon_api | Processing test case 8/21 (index: 8)
+[INFO] 2026-10-29 17:29:47,463 polygon_api | Successfully fetched test case 8 - Input length: 12, Output length: 4
+[INFO] 2026-10-29 17:29:47,463 polygon_api | Processing test case 9/21 (index: 9)
+[INFO] 2026-10-29 17:29:48,254 polygon_api | Successfully fetched test case 9 - Input length: 13, Output length: 4
+[INFO] 2026-10-29 17:29:48,255 polygon_api | Processing test case 10/21 (index: 10)
+[INFO] 2026-10-29 17:29:49,096 polygon_api | Successfully fetched test case 10 - Input length: 14, Output length: 4
+[INFO] 2026-10-29 17:29:49,096 polygon_api | Processing test case 11/21 (index: 11)
+[INFO] 2026-10-29 17:29:49,950 polygon_api | Successfully fetched test case 11 - Input length: 14, Output length: 4
+[INFO] 2026-10-29 17:29:49,951 polygon_api | Processing test case 12/21 (index: 12)
+[INFO] 2026-10-29 17:29:50,753 polygon_api | Successfully fetched test case 12 - Input length: 14, Output length: 4
+[INFO] 2026-10-29 17:29:50,754 polygon_api | Processing test case 13/21 (index: 13)
+[INFO] 2026-10-29 17:29:51,569 polygon_api | Successfully fetched test case 13 - Input length: 15, Output length: 4
+[INFO] 2026-10-29 17:29:51,569 polygon_api | Processing test case 14/21 (index: 14)
+[INFO] 2026-10-29 17:29:52,405 polygon_api | Successfully fetched test case 14 - Input length: 16, Output length: 4
+[INFO] 2026-10-29 17:29:52,406 polygon_api | Processing test case 15/21 (index: 15)
+[INFO] 2026-10-29 17:29:53,230 polygon_api | Successfully fetched test case 15 - Input length: 16, Output length: 4
+[INFO] 2026-10-29 17:29:53,230 polygon_api | Processing test case 16/21 (index: 16)
+[INFO] 2026-10-29 17:29:54,065 polygon_api | Successfully fetched test case 16 - Input length: 16, Output length: 4
+[INFO] 2026-10-29 17:29:54,065 polygon_api | Processing test case 17/21 (index: 17)
+[INFO] 2026-10-29 17:29:54,903 polygon_api | Successfully fetched test case 17 - Input length: 16, Output length: 4
+[INFO] 2026-10-29 17:29:54,903 polygon_api | Processing test case 18/21 (index: 18)
+[INFO] 2026-10-29 17:29:55,704 polygon_api | Successfully fetched test case 18 - Input length: 16, Output length: 4
+[INFO] 2026-10-29 17:29:55,704 polygon_api | Processing test case 19/21 (index: 19)
+[INFO] 2026-10-29 17:29:56,544 polygon_api | Successfully fetched test case 19 - Input length: 11, Output length: 4
+[INFO] 2026-10-29 17:29:56,544 polygon_api | Processing test case 20/21 (index: 20)
+[INFO] 2026-10-29 17:29:57,397 polygon_api | Successfully fetched test case 20 - Input length: 17, Output length: 4
+[INFO] 2026-10-29 17:29:57,398 polygon_api | Processing test case 21/21 (index: 21)
+[INFO] 2026-10-29 17:29:58,196 polygon_api | Successfully fetched test case 21 - Input length: 5, Output length: 3
+[INFO] 2026-10-29 17:29:58,196 polygon_api | Completed fetching all 21 test cases for problem 69933
+[DEBUG] 2026-10-29 17:29:58,196 views | Fetched all test cases.
+[INFO] 2026-10-29 17:30:04,369 polygon_api | Stored 21 test cases in Redis for polygon_id 69933
+[DEBUG] 2026-10-29 17:30:04,698 views | checker_type=check.cpp
+[INFO] 2026-10-29 17:30:04,698 polygon_api | Fetching custom checker info for problem 69933
+[DEBUG] 2026-10-29 17:30:05,051 polygon_api | Raw checker info: check.cpp
+[INFO] 2026-10-29 17:30:05,052 polygon_api | Custom checker detected: {'name': 'check.cpp', 'type': 'custom'}
+[INFO] 2026-10-29 17:30:05,052 polygon_api | Fetching test cases for 69933, testset
+[DEBUG] 2026-10-29 17:30:05,447 views | test_case_count=21
+[INFO] 2026-10-29 17:30:05,448 views | Exiting index view
+[INFO] 2026-10-29 17:45:27,004 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:45:27,007 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:45:27,008 views | All POST data: {'csrfmiddlewaretoken': ['1Nn9VW3m09manYjPU2Drrzn33eVjwda20fEkmR7DfwPP6rf1Wx7MhA8i1oluV4Tg'], 'problem_id': ['618508']}
+[INFO] 2026-10-29 17:45:27,008 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 17:45:27,013 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 17:45:28,241 views | Updated working copy: None
+[DEBUG] 2026-10-29 17:45:28,598 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:45:28,939 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:45:29,284 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 17:45:29,285 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:45:29,285 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 17:45:29,286 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:45:29,636 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:45:31,238 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 17:45:31,253 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpfaj6c9n7
+[DEBUG] 2026-10-29 17:45:31,254 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 17:45:31,254 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 17:45:31,255 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 17:45:31,256 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:45:31,256 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 17:45:31,256 polygon_api | Fetching all test cases for 618508, testset
+[INFO] 2026-10-29 17:45:31,603 polygon_api | Found 2 test cases to process
+[INFO] 2026-10-29 17:45:31,604 polygon_api | Processing test case 1/2 (index: 1)
+[INFO] 2026-10-29 17:45:32,643 polygon_api | Successfully fetched test case 1 - Input length: 55, Output length: 17
+[INFO] 2026-10-29 17:45:32,644 polygon_api | Processing test case 2/2 (index: 2)
+[INFO] 2026-10-29 17:45:33,485 polygon_api | Successfully fetched test case 2 - Input length: 39, Output length: 14
+[INFO] 2026-10-29 17:45:33,485 polygon_api | Completed fetching all 2 test cases for problem 618508
+[DEBUG] 2026-10-29 17:45:33,485 views | Fetched all test cases.
+[INFO] 2026-10-29 17:45:35,149 polygon_api | Stored 2 test cases in Redis for polygon_id 618508
+[DEBUG] 2026-10-29 17:45:35,486 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 17:45:35,486 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:45:35,834 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:45:35,834 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:45:35,835 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 17:45:36,181 views | test_case_count=2
+[INFO] 2026-10-29 17:45:36,181 views | Exiting index view
+[INFO] 2026-10-29 17:45:40,261 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:45:40,265 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:45:40,265 views | All POST data: {'csrfmiddlewaretoken': ['92tyH2jS8cVrFCo75eCX9npbqXavDSIl8uKJ8Xn9nzo6o5kj7J6iZoaqo7AG2Jrz'], 'problem_id': ['618508'], 'migrate_to_db': ['1'], 'difficulty': ['easy']}
+[INFO] 2026-10-29 17:45:40,265 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 17:45:40,273 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 17:45:41,303 views | Updated working copy: None
+[DEBUG] 2026-10-29 17:45:41,647 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:45:41,965 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:45:42,308 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 17:45:42,308 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:45:42,309 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 17:45:42,309 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:45:42,636 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:45:44,462 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 17:45:44,473 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpfao5wp7f
+[DEBUG] 2026-10-29 17:45:44,474 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 17:45:44,474 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 17:45:44,475 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 17:45:44,475 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:45:44,476 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 17:45:46,122 polygon_api | Retrieved 2 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:45:46,123 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:45:46,447 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 17:45:46,447 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:45:46,767 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:45:46,768 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:45:46,768 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 17:45:47,086 views | test_case_count=2
+[INFO] 2026-10-29 17:45:47,086 views | Starting DB migration for polygon_id=618508
+[INFO] 2026-10-29 17:45:47,088 views | Updating existing Problem in DB
+[INFO] 2026-10-29 17:45:47,090 views | Processing tags for problem
+[DEBUG] 2026-10-29 17:45:47,091 views | Selected tags before processing: []
+[DEBUG] 2026-10-29 17:45:47,091 views | New tag before processing: 
+[DEBUG] 2026-10-29 17:45:47,092 views | Cleared existing tags for problem 1
+[DEBUG] 2026-10-29 17:45:47,094 views | Final tags after processing: []
+[INFO] 2026-10-29 17:45:48,698 polygon_api | Retrieved 2 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:45:48,698 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:45:48,699 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 17:45:48,699 views | sample_tests: [{'index': 1, 'input': '4\r\n3\r\n1 2 1\r\n5\r\n11 7 9 6 8\r\n5\r\n1 3 1 3 1\r\n4\r\n5 2 1 10\r\n', 'output': 'NO\r\nNO\r\nNO\r\nYES\r\n', 'description': '', 'is_sample': True}, {'index': 2, 'input': '3\r\n4\r\n3 1 2 1\r\n5\r\n5 4 3 2 1\r\n3\r\n1 1 1\r\n', 'output': 'NO\r\nYES\r\nYES\r\n', 'description': '', 'is_sample': True}]
+[DEBUG] 2026-10-29 17:45:48,704 views | Sample test idx=0, input_data=4
+3
+1 2 1
+5
+11 7 9 6 8
+5
+1 3 1 3 1
+4
+5 2 1..., output_data=NO
+NO
+NO
+YES
+[DEBUG] 2026-10-29 17:45:48,705 views | Sample test idx=1, input_data=3
+4
+3 1 2 1
+5
+5 4 3 2 1
+3
+1 1 1, output_data=NO
+YES
+YES
+[DEBUG] 2026-10-29 17:45:49,048 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:45:49,362 views | Exiting index view
+[INFO] 2026-10-29 17:45:56,630 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 17:45:56,633 views | POST data: polygon_id=618508, migrate_to_azure=1, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 17:45:56,633 views | All POST data: {'csrfmiddlewaretoken': ['tQVY40dUlYwZTTflKplBx4In03gRrBUysic9vVhbAlZECmbxMUPWn5tCYdG2QsDM'], 'problem_id': ['618508'], 'migrate_to_azure': ['1']}
+[INFO] 2026-10-29 17:45:56,634 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 17:45:56,642 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 17:45:57,657 views | Updated working copy: None
+[DEBUG] 2026-10-29 17:45:57,998 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 17:45:58,343 views | Azure migration triggered for polygon_id=618508
+[INFO] 2026-10-29 17:45:58,345 views | Problem found in DB, proceeding with Azure migration
+[INFO] 2026-10-29 17:45:58,345 views | Azure migration params: problem_id=1, container=None
+[INFO] 2026-10-29 17:45:58,345 polygon_api | pattern oj_dev_with_redis_storage_test_cases_1*
+[INFO] 2026-10-29 17:46:00,021 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:46:00,349 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:46:00,349 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:46:00,349 views | Calling migrate_to_azure_blob
+[INFO] 2026-10-29 17:46:00,349 polygon_api | Starting storage migration for problem 618508
+[INFO] 2026-10-29 17:46:02,025 polygon_api | Retrieved 2 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:46:02,026 polygon_api | Retrieved test cases from Redis for storage migration
+[INFO] 2026-10-29 17:46:02,026 polygon_api | Retrieved 2 test cases
+[DEBUG] 2026-10-29 17:46:02,026 factory | Selected storage backend: upstash (s3)
+[INFO] 2026-10-29 17:46:02,261 upstash_backend | UpstashStorageBackend initialized.
+[INFO] 2026-10-29 17:46:02,261 polygon_api | Emptying existing storage for problem 1
+[INFO] 2026-10-29 17:46:05,163 upstash_backend | Emptied Upstash prefix: test_cases/1/
+[INFO] 2026-10-29 17:46:09,337 polygon_api | Uploaded 2 test cases to storage
+[INFO] 2026-10-29 17:46:09,337 polygon_api | Processing custom checker for problem 618508
+[INFO] 2026-10-29 17:46:09,337 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:46:09,698 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:46:09,699 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:46:09,699 polygon_api | No custom checker found for problem 618508
+[INFO] 2026-10-29 17:46:09,699 polygon_api | Completed storage migration for problem 618508
+[INFO] 2026-10-29 17:46:09,701 views | Azure migration completed successfully
+[INFO] 2026-10-29 17:46:09,701 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:46:10,041 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 17:46:10,042 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:46:10,042 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 17:46:10,043 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 17:46:10,382 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 17:46:11,223 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 17:46:11,233 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpm06n3a4p
+[DEBUG] 2026-10-29 17:46:11,234 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 17:46:11,234 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 17:46:11,235 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 17:46:11,235 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 17:46:11,235 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 17:46:12,923 polygon_api | Retrieved 2 test cases from Redis for polygon_id 618508
+[INFO] 2026-10-29 17:46:12,924 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 17:46:13,270 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 17:46:13,271 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 17:46:13,609 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 17:46:13,610 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 17:46:13,610 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 17:46:13,937 views | test_case_count=2
+[INFO] 2026-10-29 17:46:13,938 views | Exiting index view
+[INFO] 2026-10-29 18:22:45,729 views | Entered index view with method=GET
+[INFO] 2026-10-29 18:22:45,798 views | Exiting index view
+[INFO] 2026-10-29 18:23:12,198 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 18:23:12,207 views | POST data: polygon_id=618508, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 18:23:12,208 views | All POST data: {'csrfmiddlewaretoken': ['8RlX6VXKvD5RVtvtsQexvuu4fsCjAxfM0U6U1EoMOGchvtCaZz9l5TFhmL4tKzNT'], 'problem_id': ['618508']}
+[INFO] 2026-10-29 18:23:12,209 views | Processing polygon_id=618508
+[DEBUG] 2026-10-29 18:23:12,240 views | db_problem=Extreme Subtraction
+[DEBUG] 2026-10-29 18:23:13,437 views | Updated working copy: None
+[DEBUG] 2026-10-29 18:23:13,944 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793264409, 'length': 631, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793264528, 'length': 330, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793264489, 'length': 222, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 18:23:14,280 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 18:23:14,621 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 18:23:14,622 views | Polygon problem info: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 18:23:14,622 polygon_api | Downloading package for problem 618508
+[INFO] 2026-10-29 18:23:14,625 polygon_api | Fetching problem info for 618508
+[INFO] 2026-10-29 18:23:14,972 polygon_api | Polygon problem.info response: {'timeLimit': 2000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 18:23:16,757 polygon_api | Successfully read problem.html content, length: 4207 characters
+[DEBUG] 2026-10-29 18:23:16,789 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmp74k07nbq
+[DEBUG] 2026-10-29 18:23:16,790 views | Downloaded and extracted problem_html_content, length: 4207
+[INFO] 2026-10-29 18:23:16,791 views | Entered parse_problem_html with content length=4207
+[DEBUG] 2026-10-29 18:23:16,820 views | Extracted title=Extreme Subtraction, legend length=862, input_format length=499, output_format length=400
+[INFO] 2026-10-29 18:23:16,820 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 18:23:16,820 views | Parsed html_data: {'title': 'Extreme Subtraction', 'legend': '<p>You are given an array $$$a$$$ of $$$n$$$ positive integers. You can use the following operation as many times as you like: select any integer $$$1 \\le k \\le n$$$ and do one of two things:</p><p></p><ul> <li> decrement by one the first $$$k$$$ elements of the array; </li><li> decrement by one the last $$$k$$$ elements of the array. </li></ul><p></p><p>For example, if $$$n=5$$$ and $$$a=[3,2,2,1,4]$$$, then you can apply one of the following operations (not all possible options are listed):</p><p></p><ul> <li> decrement the first two elements $$$\\to a=[2,1,2,1,4]$$$; </li><li> decrement the last three elements $$$\\to a=[3,2,1,0,3]$$$; </li><li> decrement the first five elements $$$\\to a=[2,1,1,0,3]$$$. </li></ul><p></p><p>Determine whether it is possible to make all elements of the array equal to zero by applying a certain number of operations.</p>', 'input_format': '<p>The first line contains one positive integer $$$t$$$ ($$$1 \\le t \\le 30000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>Each test case begins with a line containing one integer $$$n$$$ ($$$1 \\le n \\le 30000$$$) — the number of elements in the array.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \\ldots, a_n$$$ ($$$1 \\le a_i \\le 10^6$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$30000$$$.</p>', 'output_format': '<p>For each test case, print a single line containing:</p><p></p><ul> <li> <span class="tex-font-style-tt">YES</span> if it is possible to make all elements equal to zero; </li><li> <span class="tex-font-style-tt">NO</span> otherwise. </li></ul><p></p><p>The letters in the words <span class="tex-font-style-tt">YES</span> and <span class="tex-font-style-tt">NO</span> can be printed in any case.</p>', 'notes': '<p>In the first sample test case the array is $$$[1,2,1]$$$. One possible sequence of operations:</p><p></p><ol> <li> decrement the first two elements $$$\\to [0,1,1]$$$; </li><li> decrement the last two elements $$$\\to [0,0,0]$$$. </li></ol><p></p><p>In the third sample the answer is <span class="tex-font-style-tt">NO</span>.</p>'}
+[INFO] 2026-10-29 18:23:16,823 polygon_api | Fetching all test cases for 618508, testset
+[INFO] 2026-10-29 18:23:17,173 polygon_api | Found 2 test cases to process
+[INFO] 2026-10-29 18:23:17,173 polygon_api | Processing test case 1/2 (index: 1)
+[INFO] 2026-10-29 18:23:17,978 polygon_api | Successfully fetched test case 1 - Input length: 55, Output length: 17
+[INFO] 2026-10-29 18:23:17,978 polygon_api | Processing test case 2/2 (index: 2)
+[INFO] 2026-10-29 18:23:18,784 polygon_api | Successfully fetched test case 2 - Input length: 39, Output length: 14
+[INFO] 2026-10-29 18:23:18,784 polygon_api | Completed fetching all 2 test cases for problem 618508
+[DEBUG] 2026-10-29 18:23:18,785 views | Fetched all test cases.
+[INFO] 2026-10-29 18:23:20,459 polygon_api | Stored 2 test cases in Redis for polygon_id 618508
+[DEBUG] 2026-10-29 18:23:20,834 views | checker_type=std::nyesno.cpp
+[INFO] 2026-10-29 18:23:20,834 polygon_api | Fetching custom checker info for problem 618508
+[DEBUG] 2026-10-29 18:23:21,177 polygon_api | Raw checker info: std::nyesno.cpp
+[INFO] 2026-10-29 18:23:21,178 polygon_api | No custom checker found, using standard checker: std::nyesno.cpp
+[INFO] 2026-10-29 18:23:21,178 polygon_api | Fetching test cases for 618508, testset
+[DEBUG] 2026-10-29 18:23:21,509 views | test_case_count=2
+[INFO] 2026-10-29 18:23:21,510 views | Exiting index view
+[INFO] 2026-10-29 18:23:44,527 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 18:23:44,535 views | POST data: polygon_id=618544, migrate_to_azure=None, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 18:23:44,535 views | All POST data: {'csrfmiddlewaretoken': ['CNq3REHYxzlXVBA5fkUcN0ckFRnhNBb5uQb0Mn80QCsnvBHMM3P0npnxMaPrXDJc'], 'problem_id': ['618544']}
+[INFO] 2026-10-29 18:23:44,536 views | Processing polygon_id=618544
+[DEBUG] 2026-10-29 18:23:44,549 views | db_problem=None
+[INFO] 2026-10-29 18:23:44,591 polygon_api | Fetching problem info for 618544
+[INFO] 2026-10-29 18:23:44,991 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 18:23:44,991 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 18:23:44,992 polygon_api | Downloading package for problem 618544
+[INFO] 2026-10-29 18:23:44,992 polygon_api | Fetching problem info for 618544
+[INFO] 2026-10-29 18:23:45,420 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 18:23:47,234 polygon_api | Successfully read problem.html content, length: 2846 characters
+[DEBUG] 2026-10-29 18:23:47,249 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpga40fovb
+[DEBUG] 2026-10-29 18:23:47,252 views | Downloaded and extracted problem_html_content, length: 2846
+[INFO] 2026-10-29 18:23:47,253 views | Entered parse_problem_html with content length=2846
+[DEBUG] 2026-10-29 18:23:47,254 views | Extracted title=Watermelon, legend length=795, input_format length=149, output_format length=222
+[INFO] 2026-10-29 18:23:47,255 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 18:23:47,255 views | Parsed html_data: {'title': 'Watermelon', 'legend': "<p>One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed $$$w$$$ kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.</p><p>Pete and Billy are great fans of even numbers, that's why they want to divide the watermelon in such a way that each of the two parts weighs even number of kilos, at the same time it is not obligatory that the parts are equal. The boys are extremely tired and want to start their meal as soon as possible, that's why you should help them and find out, if they can divide the watermelon in the way they want. For sure, each of them should get a part of positive weight.</p>", 'input_format': '<p>The first (and the only) input line contains integer number $$$w$$$ ($$$1 \\le w \\le 100$$$) — the weight of the watermelon bought by the boys.</p>', 'output_format': '<p>Print <span class="tex-font-style-tt">YES</span>, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and <span class="tex-font-style-tt">NO</span> in the opposite case.</p>', 'notes': '<p>For example, the boys can divide the watermelon into two parts of $$$2$$$ and $$$6$$$ kilos (another way — two parts of $$$4$$$ and $$$4$$$ kilos).</p>'}
+[INFO] 2026-10-29 18:23:47,256 polygon_api | Fetching all test cases for 618544, testset
+[INFO] 2026-10-29 18:23:47,601 polygon_api | Found 13 test cases to process
+[INFO] 2026-10-29 18:23:47,602 polygon_api | Processing test case 1/13 (index: 1)
+[INFO] 2026-10-29 18:23:48,571 polygon_api | Successfully fetched test case 1 - Input length: 3, Output length: 4
+[INFO] 2026-10-29 18:23:48,572 polygon_api | Processing test case 2/13 (index: 2)
+[INFO] 2026-10-29 18:23:49,387 polygon_api | Successfully fetched test case 2 - Input length: 3, Output length: 4
+[INFO] 2026-10-29 18:23:49,387 polygon_api | Processing test case 3/13 (index: 3)
+[INFO] 2026-10-29 18:23:50,215 polygon_api | Successfully fetched test case 3 - Input length: 3, Output length: 4
+[INFO] 2026-10-29 18:23:50,215 polygon_api | Processing test case 4/13 (index: 4)
+[INFO] 2026-10-29 18:23:51,058 polygon_api | Successfully fetched test case 4 - Input length: 3, Output length: 5
+[INFO] 2026-10-29 18:23:51,059 polygon_api | Processing test case 5/13 (index: 5)
+[INFO] 2026-10-29 18:23:52,106 polygon_api | Successfully fetched test case 5 - Input length: 3, Output length: 5
+[INFO] 2026-10-29 18:23:52,107 polygon_api | Processing test case 6/13 (index: 6)
+[INFO] 2026-10-29 18:23:53,023 polygon_api | Successfully fetched test case 6 - Input length: 3, Output length: 4
+[INFO] 2026-10-29 18:23:53,023 polygon_api | Processing test case 7/13 (index: 7)
+[INFO] 2026-10-29 18:23:53,894 polygon_api | Successfully fetched test case 7 - Input length: 5, Output length: 5
+[INFO] 2026-10-29 18:23:53,894 polygon_api | Processing test case 8/13 (index: 8)
+[INFO] 2026-10-29 18:23:54,887 polygon_api | Successfully fetched test case 8 - Input length: 4, Output length: 4
+[INFO] 2026-10-29 18:23:54,887 polygon_api | Processing test case 9/13 (index: 9)
+[INFO] 2026-10-29 18:23:55,950 polygon_api | Successfully fetched test case 9 - Input length: 4, Output length: 5
+[INFO] 2026-10-29 18:23:55,951 polygon_api | Processing test case 10/13 (index: 10)
+[INFO] 2026-10-29 18:23:56,827 polygon_api | Successfully fetched test case 10 - Input length: 4, Output length: 4
+[INFO] 2026-10-29 18:23:56,828 polygon_api | Processing test case 11/13 (index: 11)
+[INFO] 2026-10-29 18:23:57,718 polygon_api | Successfully fetched test case 11 - Input length: 3, Output length: 5
+[INFO] 2026-10-29 18:23:57,718 polygon_api | Processing test case 12/13 (index: 12)
+[INFO] 2026-10-29 18:23:58,556 polygon_api | Successfully fetched test case 12 - Input length: 3, Output length: 4
+[INFO] 2026-10-29 18:23:58,556 polygon_api | Processing test case 13/13 (index: 13)
+[INFO] 2026-10-29 18:23:59,577 polygon_api | Successfully fetched test case 13 - Input length: 3, Output length: 5
+[INFO] 2026-10-29 18:23:59,577 polygon_api | Completed fetching all 13 test cases for problem 618544
+[DEBUG] 2026-10-29 18:23:59,578 views | Fetched all test cases.
+[INFO] 2026-10-29 18:24:03,955 polygon_api | Stored 13 test cases in Redis for polygon_id 618544
+[DEBUG] 2026-10-29 18:24:04,302 views | checker_type=std::yesno.cpp
+[INFO] 2026-10-29 18:24:04,303 polygon_api | Fetching custom checker info for problem 618544
+[DEBUG] 2026-10-29 18:24:04,652 polygon_api | Raw checker info: std::yesno.cpp
+[INFO] 2026-10-29 18:24:04,653 polygon_api | No custom checker found, using standard checker: std::yesno.cpp
+[INFO] 2026-10-29 18:24:04,653 polygon_api | Fetching test cases for 618544, testset
+[DEBUG] 2026-10-29 18:24:05,013 views | test_case_count=13
+[INFO] 2026-10-29 18:24:05,013 views | Exiting index view
+[INFO] 2026-10-29 18:24:42,464 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 18:24:42,470 views | POST data: polygon_id=618544, migrate_to_azure=None, migrate_to_db=1, migrate_test_cases_to_db=None, difficulty=easy, selected_tags=['maths'], new_tag=
+[DEBUG] 2026-10-29 18:24:42,471 views | All POST data: {'csrfmiddlewaretoken': ['AA79xOMSjq0wDJdGxh5T4A7xjmif7YvAsDS6sxdUCt7WdJkn400HEZiKqFKph03H'], 'problem_id': ['618544'], 'migrate_to_db': ['1'], 'difficulty': ['easy'], 'tags': ['maths']}
+[INFO] 2026-10-29 18:24:42,471 views | Processing polygon_id=618544
+[DEBUG] 2026-10-29 18:24:42,492 views | db_problem=None
+[INFO] 2026-10-29 18:24:42,493 polygon_api | Fetching problem info for 618544
+[INFO] 2026-10-29 18:24:42,865 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 18:24:42,866 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 18:24:42,866 polygon_api | Downloading package for problem 618544
+[INFO] 2026-10-29 18:24:42,867 polygon_api | Fetching problem info for 618544
+[INFO] 2026-10-29 18:24:43,193 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 18:24:44,068 polygon_api | Successfully read problem.html content, length: 2846 characters
+[DEBUG] 2026-10-29 18:24:44,089 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpm0aon21g
+[DEBUG] 2026-10-29 18:24:44,091 views | Downloaded and extracted problem_html_content, length: 2846
+[INFO] 2026-10-29 18:24:44,091 views | Entered parse_problem_html with content length=2846
+[DEBUG] 2026-10-29 18:24:44,091 views | Extracted title=Watermelon, legend length=795, input_format length=149, output_format length=222
+[INFO] 2026-10-29 18:24:44,092 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 18:24:44,092 views | Parsed html_data: {'title': 'Watermelon', 'legend': "<p>One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed $$$w$$$ kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.</p><p>Pete and Billy are great fans of even numbers, that's why they want to divide the watermelon in such a way that each of the two parts weighs even number of kilos, at the same time it is not obligatory that the parts are equal. The boys are extremely tired and want to start their meal as soon as possible, that's why you should help them and find out, if they can divide the watermelon in the way they want. For sure, each of them should get a part of positive weight.</p>", 'input_format': '<p>The first (and the only) input line contains integer number $$$w$$$ ($$$1 \\le w \\le 100$$$) — the weight of the watermelon bought by the boys.</p>', 'output_format': '<p>Print <span class="tex-font-style-tt">YES</span>, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and <span class="tex-font-style-tt">NO</span> in the opposite case.</p>', 'notes': '<p>For example, the boys can divide the watermelon into two parts of $$$2$$$ and $$$6$$$ kilos (another way — two parts of $$$4$$$ and $$$4$$$ kilos).</p>'}
+[INFO] 2026-10-29 18:24:48,309 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618544
+[INFO] 2026-10-29 18:24:48,309 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 18:24:48,882 views | checker_type=std::yesno.cpp
+[INFO] 2026-10-29 18:24:48,882 polygon_api | Fetching custom checker info for problem 618544
+[DEBUG] 2026-10-29 18:24:49,202 polygon_api | Raw checker info: std::yesno.cpp
+[INFO] 2026-10-29 18:24:49,203 polygon_api | No custom checker found, using standard checker: std::yesno.cpp
+[INFO] 2026-10-29 18:24:49,203 polygon_api | Fetching test cases for 618544, testset
+[DEBUG] 2026-10-29 18:24:49,540 views | test_case_count=13
+[INFO] 2026-10-29 18:24:49,541 views | Starting DB migration for polygon_id=618544
+[INFO] 2026-10-29 18:24:49,543 views | Creating new Problem in DB
+[INFO] 2026-10-29 18:24:49,557 views | Processing tags for problem
+[DEBUG] 2026-10-29 18:24:49,557 views | Selected tags before processing: ['maths']
+[DEBUG] 2026-10-29 18:24:49,558 views | New tag before processing: 
+[DEBUG] 2026-10-29 18:24:49,569 views | Cleared existing tags for problem 2
+[DEBUG] 2026-10-29 18:24:49,569 views | Processing tag: maths
+[INFO] 2026-10-29 18:24:49,584 views | Created new tag: maths
+[DEBUG] 2026-10-29 18:24:49,587 views | Final tags after processing: ['maths']
+[INFO] 2026-10-29 18:24:53,675 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618544
+[INFO] 2026-10-29 18:24:53,676 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 18:24:53,676 views | test_cases for DB migration.
+[DEBUG] 2026-10-29 18:24:53,676 views | sample_tests: []
+[DEBUG] 2026-10-29 18:24:54,023 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793267858, 'length': 88, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'main2.py', 'modificationTimeSeconds': 1793267892, 'length': 109, 'tag': 'OK', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793267899, 'length': 121, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793267904, 'length': 54, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 18:24:54,359 views | Exiting index view
+[INFO] 2026-10-29 18:25:43,513 views | Entered index view with method=POST
+[DEBUG] 2026-10-29 18:25:43,518 views | POST data: polygon_id=618544, migrate_to_azure=1, migrate_to_db=None, migrate_test_cases_to_db=None, difficulty=, selected_tags=[], new_tag=
+[DEBUG] 2026-10-29 18:25:43,519 views | All POST data: {'csrfmiddlewaretoken': ['7gQpiP9jKzOQzoJsNetLtHAhYfddWYccZjBmdyAl3CVg9oQ9kXoz36Lu5yFn60Kj'], 'problem_id': ['618544'], 'migrate_to_azure': ['1']}
+[INFO] 2026-10-29 18:25:43,519 views | Processing polygon_id=618544
+[DEBUG] 2026-10-29 18:25:43,535 views | db_problem=Watermelon
+[DEBUG] 2026-10-29 18:25:44,560 views | Updated working copy: None
+[DEBUG] 2026-10-29 18:25:44,921 views | Fetched solutions: [{'name': 'main.py', 'modificationTimeSeconds': 1793267858, 'length': 88, 'tag': 'MA', 'sourceType': 'python.3'}, {'name': 'main2.py', 'modificationTimeSeconds': 1793267892, 'length': 109, 'tag': 'OK', 'sourceType': 'python.3'}, {'name': 'tle.py', 'modificationTimeSeconds': 1793267899, 'length': 121, 'tag': 'TL', 'sourceType': 'python.3'}, {'name': 'wa.py', 'modificationTimeSeconds': 1793267904, 'length': 54, 'tag': 'WA', 'sourceType': 'python.3'}]
+[INFO] 2026-10-29 18:25:45,265 views | Azure migration triggered for polygon_id=618544
+[INFO] 2026-10-29 18:25:45,270 views | Problem found in DB, proceeding with Azure migration
+[INFO] 2026-10-29 18:25:45,270 views | Azure migration params: problem_id=2, container=None
+[INFO] 2026-10-29 18:25:45,271 polygon_api | pattern oj_dev_with_redis_storage_test_cases_2*
+[INFO] 2026-10-29 18:25:46,737 polygon_api | Fetching custom checker info for problem 618544
+[DEBUG] 2026-10-29 18:25:47,067 polygon_api | Raw checker info: std::yesno.cpp
+[INFO] 2026-10-29 18:25:47,067 polygon_api | No custom checker found, using standard checker: std::yesno.cpp
+[INFO] 2026-10-29 18:25:47,067 views | Calling migrate_to_azure_blob
+[INFO] 2026-10-29 18:25:47,069 polygon_api | Starting storage migration for problem 618544
+[INFO] 2026-10-29 18:25:51,085 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618544
+[INFO] 2026-10-29 18:25:51,085 polygon_api | Retrieved test cases from Redis for storage migration
+[INFO] 2026-10-29 18:25:51,086 polygon_api | Retrieved 13 test cases
+[DEBUG] 2026-10-29 18:25:51,086 factory | Selected storage backend: upstash (s3)
+[INFO] 2026-10-29 18:25:51,436 upstash_backend | UpstashStorageBackend initialized.
+[INFO] 2026-10-29 18:25:51,436 polygon_api | Emptying existing storage for problem 2
+[INFO] 2026-10-29 18:25:54,223 upstash_backend | Emptied Upstash prefix: test_cases/2/
+[INFO] 2026-10-29 18:26:28,575 polygon_api | Uploaded 13 test cases to storage
+[INFO] 2026-10-29 18:26:28,576 polygon_api | Processing custom checker for problem 618544
+[INFO] 2026-10-29 18:26:28,577 polygon_api | Fetching custom checker info for problem 618544
+[DEBUG] 2026-10-29 18:26:28,911 polygon_api | Raw checker info: std::yesno.cpp
+[INFO] 2026-10-29 18:26:28,911 polygon_api | No custom checker found, using standard checker: std::yesno.cpp
+[INFO] 2026-10-29 18:26:28,912 polygon_api | No custom checker found for problem 618544
+[INFO] 2026-10-29 18:26:28,912 polygon_api | Completed storage migration for problem 618544
+[INFO] 2026-10-29 18:26:28,912 views | Azure migration completed successfully
+[INFO] 2026-10-29 18:26:28,912 polygon_api | Fetching problem info for 618544
+[INFO] 2026-10-29 18:26:29,421 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[DEBUG] 2026-10-29 18:26:29,422 views | Polygon problem info: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 18:26:29,423 polygon_api | Downloading package for problem 618544
+[INFO] 2026-10-29 18:26:29,424 polygon_api | Fetching problem info for 618544
+[INFO] 2026-10-29 18:26:29,774 polygon_api | Polygon problem.info response: {'timeLimit': 1000, 'inputFile': 'stdin', 'outputFile': 'stdout', 'runTwice': False, 'interactive': False, 'wellFormed': True, 'memoryLimit': 256, 'skipDuplicatedTestsValidation': False}
+[INFO] 2026-10-29 18:26:31,714 polygon_api | Successfully read problem.html content, length: 2846 characters
+[DEBUG] 2026-10-29 18:26:31,777 polygon_api | Cleaned up temporary directory: C:\Users\HP\AppData\Local\Temp\tmpja7fkhe5
+[DEBUG] 2026-10-29 18:26:31,779 views | Downloaded and extracted problem_html_content, length: 2846
+[INFO] 2026-10-29 18:26:31,779 views | Entered parse_problem_html with content length=2846
+[DEBUG] 2026-10-29 18:26:31,780 views | Extracted title=Watermelon, legend length=795, input_format length=149, output_format length=222
+[INFO] 2026-10-29 18:26:31,781 views | Exiting parse_problem_html
+[DEBUG] 2026-10-29 18:26:31,781 views | Parsed html_data: {'title': 'Watermelon', 'legend': "<p>One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed $$$w$$$ kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.</p><p>Pete and Billy are great fans of even numbers, that's why they want to divide the watermelon in such a way that each of the two parts weighs even number of kilos, at the same time it is not obligatory that the parts are equal. The boys are extremely tired and want to start their meal as soon as possible, that's why you should help them and find out, if they can divide the watermelon in the way they want. For sure, each of them should get a part of positive weight.</p>", 'input_format': '<p>The first (and the only) input line contains integer number $$$w$$$ ($$$1 \\le w \\le 100$$$) — the weight of the watermelon bought by the boys.</p>', 'output_format': '<p>Print <span class="tex-font-style-tt">YES</span>, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and <span class="tex-font-style-tt">NO</span> in the opposite case.</p>', 'notes': '<p>For example, the boys can divide the watermelon into two parts of $$$2$$$ and $$$6$$$ kilos (another way — two parts of $$$4$$$ and $$$4$$$ kilos).</p>'}
+[INFO] 2026-10-29 18:26:35,853 polygon_api | Retrieved 13 test cases from Redis for polygon_id 618544
+[INFO] 2026-10-29 18:26:35,854 views | Retrieved test cases from Redis for test case migration to DB (saved Polygon API call)
+[DEBUG] 2026-10-29 18:26:36,183 views | checker_type=std::yesno.cpp
+[INFO] 2026-10-29 18:26:36,184 polygon_api | Fetching custom checker info for problem 618544
+[DEBUG] 2026-10-29 18:26:36,537 polygon_api | Raw checker info: std::yesno.cpp
+[INFO] 2026-10-29 18:26:36,538 polygon_api | No custom checker found, using standard checker: std::yesno.cpp
+[INFO] 2026-10-29 18:26:36,538 polygon_api | Fetching test cases for 618544, testset
+[DEBUG] 2026-10-29 18:26:36,901 views | test_case_count=13
+[INFO] 2026-10-29 18:26:36,902 views | Exiting index view
